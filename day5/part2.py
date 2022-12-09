@@ -1,5 +1,4 @@
 
-from ast import parse
 import sys
 
 DAY = 5
